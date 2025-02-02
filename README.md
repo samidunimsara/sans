@@ -17,8 +17,8 @@
 
 ### Prerequisites
 
-- **Go 1.18+**: Download and install Go from [the official Go downloads page](https://go.dev/dl/).
-- **Git**: Make sure Git is installed on your system.
+- **Go 1.18+**: Download and install Go from the [official Go downloads page](https://golang.org/dl/).
+- **IPInfo.io token**: You will need a valid token  from [IPInfo.io](https://ipinfo.io/account/token) to use this tool. You can sign up for a free  plan,
 
 ### Using `go install`
 
