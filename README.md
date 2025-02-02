@@ -21,7 +21,7 @@ A tool to resolve subdomains, get IP addresses, and retrieve IP-related informat
 To install the tool globally on your machine, run the following command:
 
 ```bash
-go install github.com/yourusername/subdomain-ip-resolver@latest
+go install github.com/samidunimsara/sans@latest
 ```
 
 ## Usage
