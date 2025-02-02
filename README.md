@@ -12,7 +12,7 @@ A tool to resolve subdomains, get IP addresses, and retrieve IP-related informat
 ## Requirements
 
 - Go (1.18 or higher)
-- An active API token from IPInfo.io.
+- An active API token from [IPInfo.io](https://ipinfo.io/account/token)
 
 ## Installation
 
@@ -40,7 +40,7 @@ sans -l path_to_your_subdomain_list.txt -t YOUR_API_TOKEN
 ### Example:
 
 ```bash
-./sans -l subdomains.txt -t fhfhfhfhfh
+sans -l subdomains.txt -t fhfhfhfhfh
 ```
 
 This will:
